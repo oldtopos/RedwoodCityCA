@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="37.456960031" lon="-122.227406157" visible="true" />
+<node id="-3" lat="37.456827075" lon="-122.22721797" visible="true" />
+<node id="-4" lat="37.456757763" lon="-122.227294999" visible="true" />
+<node id="-5" lat="37.456737016" lon="-122.227265643" visible="true" />
+<node id="-6" lat="37.45664567" lon="-122.227367211" visible="true" />
+<node id="-7" lat="37.456698922" lon="-122.227442597" visible="true" />
+<node id="-8" lat="37.456688226" lon="-122.227454478" visible="true" />
+<node id="-9" lat="37.456738976" lon="-122.227526292" visible="true" />
+<node id="-10" lat="37.456867403" lon="-122.227465967" visible="true" />
+<node id="-11" lat="37.456863599" lon="-122.227448202" visible="true" />
+<node id="-12" lat="37.456896506" lon="-122.227431528" visible="true" />
+<node id="-13" lat="37.456899981" lon="-122.227447357" visible="true" />
+<node id="-14" lat="37.456963947" lon="-122.22741817" visible="true" />
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-13" /><nd ref="-14" /><nd ref="-2" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33899" /></way>
+</osm>

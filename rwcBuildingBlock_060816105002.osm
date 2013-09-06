@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="37.476941963" lon="-122.212629492" visible="true" />
+<node id="-3" lat="37.477098244" lon="-122.21246495" visible="true" />
+<node id="-4" lat="37.477010526" lon="-122.212333754" visible="true" />
+<node id="-5" lat="37.476854245" lon="-122.212498295" visible="true" />
+<node id="-7" lat="37.476835082" lon="-122.212506989" visible="true" />
+<node id="-8" lat="37.477001722" lon="-122.212334723" visible="true" />
+<node id="-9" lat="37.476918472" lon="-122.212207938" visible="true" />
+<node id="-10" lat="37.476924412" lon="-122.212201767" visible="true" />
+<node id="-11" lat="37.476836648" lon="-122.212068088" visible="true" />
+<node id="-12" lat="37.476730305" lon="-122.212178044" visible="true" />
+<node id="-13" lat="37.476780367" lon="-122.21225433" visible="true" />
+<node id="-14" lat="37.476742271" lon="-122.212293713" visible="true" />
+<node id="-15" lat="37.476779972" lon="-122.21235114" visible="true" />
+<node id="-16" lat="37.476751832" lon="-122.212380203" visible="true" />
+<node id="-18" lat="37.477001519" lon="-122.212939994" visible="true" />
+<node id="-19" lat="37.476919602" lon="-122.212814066" visible="true" />
+<node id="-20" lat="37.476842749" lon="-122.212892782" visible="true" />
+<node id="-21" lat="37.476924666" lon="-122.213018709" visible="true" />
+<node id="-23" lat="37.477051405" lon="-122.213438672" visible="true" />
+<node id="-24" lat="37.477037131" lon="-122.213639459" visible="true" />
+<node id="-25" lat="37.477196109" lon="-122.213657244" visible="true" />
+<node id="-26" lat="37.477200252" lon="-122.213599228" visible="true" />
+<node id="-27" lat="37.477265412" lon="-122.213606515" visible="true" />
+<node id="-28" lat="37.477269176" lon="-122.213553763" visible="true" />
+<node id="-29" lat="37.477336092" lon="-122.213561264" visible="true" />
+<node id="-30" lat="37.477340065" lon="-122.21350545" visible="true" />
+<node id="-31" lat="37.477357946" lon="-122.213507446" visible="true" />
+<node id="-32" lat="37.477360749" lon="-122.213467804" visible="true" />
+<node id="-33" lat="37.477338974" lon="-122.213465374" visible="true" />
+<node id="-34" lat="37.477302416" lon="-122.213406835" visible="true" />
+<node id="-35" lat="37.477249788" lon="-122.213400939" visible="true" />
+<node id="-36" lat="37.477253107" lon="-122.213354278" visible="true" />
+<node id="-37" lat="37.477297657" lon="-122.213305669" visible="true" />
+<node id="-38" lat="37.477395631" lon="-122.213464262" visible="true" />
+<node id="-39" lat="37.477436" lon="-122.213468775" visible="true" />
+<node id="-40" lat="37.47749496" lon="-122.213407779" visible="true" />
+<node id="-41" lat="37.477499179" lon="-122.213348316" visible="true" />
+<node id="-42" lat="37.477579499" lon="-122.213265406" visible="true" />
+<node id="-43" lat="37.477593596" lon="-122.213266971" visible="true" />
+<node id="-44" lat="37.477603517" lon="-122.21312733" visible="true" />
+<node id="-45" lat="37.477492681" lon="-122.212961478" visible="true" />
+<node id="-46" lat="37.477375471" lon="-122.212948342" visible="true" />
+<node id="-47" lat="37.477342182" lon="-122.21289536" visible="true" />
+<node id="-48" lat="37.477299702" lon="-122.212890593" visible="true" />
+<node id="-49" lat="37.477251689" lon="-122.212941225" visible="true" />
+<node id="-50" lat="37.477244295" lon="-122.213045112" visible="true" />
+<node id="-51" lat="37.477230391" lon="-122.213043552" visible="true" />
+<node id="-52" lat="37.477174466" lon="-122.213103618" visible="true" />
+<node id="-53" lat="37.477172669" lon="-122.213128911" visible="true" />
+<node id="-54" lat="37.477151717" lon="-122.213126568" visible="true" />
+<node id="-55" lat="37.477145389" lon="-122.213131007" visible="true" />
+<node id="-56" lat="37.477135961" lon="-122.213118244" visible="true" />
+<node id="-57" lat="37.477138277" lon="-122.213085623" visible="true" />
+<node id="-58" lat="37.477120762" lon="-122.21305675" visible="true" />
+<node id="-59" lat="37.477092624" lon="-122.213053623" visible="true" />
+<node id="-60" lat="37.477054769" lon="-122.213091424" visible="true" />
+<node id="-61" lat="37.477052174" lon="-122.213128107" visible="true" />
+<node id="-62" lat="37.477073206" lon="-122.213158887" visible="true" />
+<node id="-63" lat="37.477097257" lon="-122.213161576" visible="true" />
+<node id="-64" lat="37.477105397" lon="-122.213174103" visible="true" />
+<node id="-65" lat="37.477099307" lon="-122.213181132" visible="true" />
+<node id="-66" lat="37.477093885" lon="-122.213257111" visible="true" />
+<node id="-67" lat="37.47710022" lon="-122.213257807" visible="true" />
+<node id="-68" lat="37.477099906" lon="-122.213262453" visible="true" />
+<node id="-69" lat="37.47707413" lon="-122.213291331" visible="true" />
+<node id="-70" lat="37.477104248" lon="-122.213333831" visible="true" />
+<node id="-71" lat="37.47713794" lon="-122.213300793" visible="true" />
+<node id="-72" lat="37.477142594" lon="-122.213307517" visible="true" />
+<node id="-73" lat="37.477138066" lon="-122.213371212" visible="true" />
+<node id="-74" lat="37.47712875" lon="-122.213377133" visible="true" />
+<node id="-75" lat="37.477102365" lon="-122.213338613" visible="true" />
+<node id="-76" lat="37.477032567" lon="-122.213410114" visible="true" />
+<node id="-78" lat="37.477146265" lon="-122.212694397" visible="true" />
+<node id="-79" lat="37.477139496" lon="-122.212791163" visible="true" />
+<node id="-80" lat="37.477111524" lon="-122.212788074" visible="true" />
+<node id="-81" lat="37.477107705" lon="-122.212842685" visible="true" />
+<node id="-82" lat="37.477134308" lon="-122.212845606" visible="true" />
+<node id="-83" lat="37.477131702" lon="-122.212883012" visible="true" />
+<node id="-84" lat="37.477259995" lon="-122.21289716" visible="true" />
+<node id="-85" lat="37.477262075" lon="-122.212867566" visible="true" />
+<node id="-87" lat="37.476799083" lon="-122.212502371" visible="true" />
+<node id="-88" lat="37.476773437" lon="-122.212529872" visible="true" />
+<node id="-89" lat="37.476792746" lon="-122.212558234" visible="true" />
+<node id="-90" lat="37.476818391" lon="-122.212530733" visible="true" />
+<node id="-92" lat="37.476837732" lon="-122.212677523" visible="true" />
+<node id="-93" lat="37.476798667" lon="-122.212724811" visible="true" />
+<node id="-94" lat="37.476817484" lon="-122.212749267" visible="true" />
+<node id="-95" lat="37.476856548" lon="-122.212701979" visible="true" />
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-2" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33786" /></way>
+<way id="-6" visible="true"><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-13" /><nd ref="-14" /><nd ref="-15" /><nd ref="-16" /><nd ref="-7" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33787" /></way>
+<way id="-17" visible="true"><nd ref="-18" /><nd ref="-19" /><nd ref="-20" /><nd ref="-21" /><nd ref="-18" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33789" /></way>
+<way id="-22" visible="true"><nd ref="-23" /><nd ref="-24" /><nd ref="-25" /><nd ref="-26" /><nd ref="-27" /><nd ref="-28" /><nd ref="-29" /><nd ref="-30" /><nd ref="-31" /><nd ref="-32" /><nd ref="-33" /><nd ref="-34" /><nd ref="-35" /><nd ref="-36" /><nd ref="-37" /><nd ref="-38" /><nd ref="-39" /><nd ref="-40" /><nd ref="-41" /><nd ref="-42" /><nd ref="-43" /><nd ref="-44" /><nd ref="-45" /><nd ref="-46" /><nd ref="-47" /><nd ref="-48" /><nd ref="-49" /><nd ref="-50" /><nd ref="-51" /><nd ref="-52" /><nd ref="-53" /><nd ref="-54" /><nd ref="-55" /><nd ref="-56" /><nd ref="-57" /><nd ref="-58" /><nd ref="-59" /><nd ref="-60" /><nd ref="-61" /><nd ref="-62" /><nd ref="-63" /><nd ref="-64" /><nd ref="-65" /><nd ref="-66" /><nd ref="-67" /><nd ref="-68" /><nd ref="-69" /><nd ref="-70" /><nd ref="-71" /><nd ref="-72" /><nd ref="-73" /><nd ref="-74" /><nd ref="-75" /><nd ref="-76" /><nd ref="-23" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33790" /></way>
+<way id="-77" visible="true"><nd ref="-78" /><nd ref="-79" /><nd ref="-80" /><nd ref="-81" /><nd ref="-82" /><nd ref="-83" /><nd ref="-84" /><nd ref="-85" /><nd ref="-78" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33791" /></way>
+<way id="-86" visible="true"><nd ref="-87" /><nd ref="-88" /><nd ref="-89" /><nd ref="-90" /><nd ref="-87" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33793" /></way>
+<way id="-91" visible="true"><nd ref="-92" /><nd ref="-93" /><nd ref="-94" /><nd ref="-95" /><nd ref="-92" /><tag k="building" v="yes" /><tag k="source" v="Redwood City, CA 0813" /><tag k="rwc_ca:building_id" v="33794" /></way>
+</osm>
